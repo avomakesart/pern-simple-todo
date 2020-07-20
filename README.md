@@ -1,2 +1,2 @@
 # pern-simple-todo
-Another todo app but using MERN (MYSQL, EXPRES, REACT AND NODE)
+Another todo app but using PERN (POSTGRES, EXPRES, REACT AND NODE)
